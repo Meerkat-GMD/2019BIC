@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PING
+  - CITY
+  - AGENT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BACKGROUND
+    uniqueID: 653071353
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CITY
+    uniqueID: 97125199
+    locked: 0
+  - name: PING
+    uniqueID: 207469357
+    locked: 0
